@@ -26,6 +26,7 @@ module.exports = {
               'Flutter',
               'MiniProgram',
               'InterView',
+              'Module',
               'Git',
             ]
         ,
